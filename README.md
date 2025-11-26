@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## HELLO 👋
+My name is Aashir and i am a CS student at Muslim Youth University.
+I have basic knowledge of languages like HTML, CSS, JavaScript, and PHP and can develop basic front-end websites with ease
+I’m currently learning and looking for internships to strengthen my skills in Web Development.
 <!--
 **AashirAdnan/AashirAdnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
