@@ -1,6 +1,6 @@
 ## HELLO 👋
 - My name is Aashir and i am a CS student at Muslim Youth University.
-- I have basic knowledge of languages like HTML, CSS, JavaScript, and PHP and can develop basic front-end websites with ease.
+- I have basic knowledge of languages like HTML, CSS and JavaScript and can develop basic front-end websites with ease.
 - I’m currently learning and looking for internships to strengthen my skills in Web Development.
   - Email me at m.aashiradnan@gmail.com
 <!--
